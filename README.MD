@@ -1,6 +1,6 @@
-### Discord Code BOT
+# Discord Code BOT
 
-### Installation
+## Installation
 ```
 pip install discord-code-bot
 ```
